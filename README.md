@@ -3,6 +3,8 @@
 # KlickyNG_probe_mod
 Small suggestions to improve klickyNG probe CAD
 
+![Mod for Klicky prob](./Images/KlickNG_Probe_mod.png)
+
 Author of the original project
 Original is here : https://github.com/jlas1/Klicky-Probe/tree/main/Probes/KlickyNG
 Instructions, configuration, macros will be found in the above repository
