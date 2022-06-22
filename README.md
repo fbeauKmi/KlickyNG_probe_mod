@@ -30,13 +30,18 @@ Original Parts are really small and not optimize to reach FDM printer standards 
 only ABS
 
 ### Modified parts
-- KlickyNG_probe_body (make consistent print part by calibrate wall width and thickness with regard to slicer settings, Original one makes inclined plane , reduce it by increasing thickness of flat plane, 0.8mm(4 layers) instead of 0.65mm )
-- KlickyNG_probe_insert_2.75mm (increase depth for magnet by 0.1mm to reduce gap between in sert and body)
-- KlickyNG_probe_insert_3mm (increase depth for magnet by 0.1mm to reduce gap between in sert and body)
+- KlickyNG_probe_body : 
+   * Make consistent print part by calibrate wall width and thickness with regard to slicer settings
+   * Original one makes inclined plane , reduce it by increasing thickness of flat plane, 0.8mm(4 layers) instead of 0.65mm
+   * Add holes to easyly remove magnets (in case of next gen 2)
+   * Add slots to help alignement (no consequenses on dock_probe)
+- KlickyNG_probe_insert_2.75mm and KlickyNG_probe_insert_3mm : 
+   * Increase depth for magnet by 0.1mm to reduce gap between insert and body
+   * remove slope of microswitch holder (less then 1 layer) does not make any difference
 
 ## The toolhead mount
 
-Nothing done at this time
+Nothing done for now
 
 ### To do/try
 - reduce front magnet holder to get the probe closer. 
