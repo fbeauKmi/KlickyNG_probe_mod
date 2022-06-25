@@ -39,7 +39,7 @@ only ABS
    * Add slots to help alignement (no consequenses on dock_probe)
 - KlickyNG_probe_insert_2.75mm and KlickyNG_probe_insert_3mm : 
    * Increase depth for magnet by 0.1mm to reduce gap between insert and body
-   * remove slope of microswitch holder (less then 1 layer) does not make any difference
+   * ~~remove slope of microswitch holder (less then 1 layer) does not make any difference~~
 
 ## The toolhead mount
 
